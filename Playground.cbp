@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Playground" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Playground" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Debug/" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="SF2D" />
+					<Add directory="SF2D/Body" />
+				</Compiler>
+				<Linker>
+					<Add option="-lsfml-system" />
+					<Add option="-lsfml-window" />
+					<Add option="-lsfml-graphics" />
+					<Add option="-lBox2D" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Playground" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Release" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="SF2D" />
+					<Add directory="SF2D/Body" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="-static-libgcc" />
+		</Compiler>
+		<Linker>
+			<Add option="-lsfml-system" />
+			<Add option="-lsfml-window" />
+			<Add option="-lsfml-graphics" />
+			<Add option="-lBox2D" />
+			<Add option="-static-libgcc" />
+		</Linker>
+		<Unit filename="Playground.cpp" />
+		<Unit filename="Playground.h" />
+		<Unit filename="SF2D/Body/Bodies.h" />
+		<Unit filename="SF2D/Body/Body.cpp" />
+		<Unit filename="SF2D/Body/Body.h" />
+		<Unit filename="SF2D/Body/DynamicBody.cpp" />
+		<Unit filename="SF2D/Body/DynamicBody.h" />
+		<Unit filename="SF2D/Body/Wall.cpp" />
+		<Unit filename="SF2D/Body/Wall.h" />
+		<Unit filename="SOFIE/Engine/Engine.cpp" />
+		<Unit filename="SOFIE/Engine/Engine.h" />
+		<Unit filename="SOFIE/Graphics/Button.cpp" />
+		<Unit filename="SOFIE/Graphics/Button.h" />
+		<Unit filename="SOFIE/Graphics/ButtonVector.cpp" />
+		<Unit filename="SOFIE/Independent/TestWindow.cpp" />
+		<Unit filename="SOFIE/Independent/TestWindow.h" />
+		<Unit filename="SOFIE/Math.h" />
+		<Unit filename="SOFIE/Math/Conversion.cpp" />
+		<Unit filename="SOFIE/Math/Conversion.h" />
+		<Unit filename="SOFIE/Math/Random.cpp" />
+		<Unit filename="SOFIE/Math/Random.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

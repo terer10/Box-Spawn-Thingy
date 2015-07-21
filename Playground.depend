@@ -1,0 +1,487 @@
+# depslib dependency file v1.0
+1382854939 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\b2broadphase.cpp
+	<Box2D/Collision/b2BroadPhase.h>
+
+1316382321 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\b2collidecircle.cpp
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+1382854760 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\b2collideedge.cpp
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+1382511766 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\b2collidepolygon.cpp
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+1382854822 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\b2collision.cpp
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/b2Distance.h>
+
+1382938644 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\b2distance.cpp
+	<Box2D/Collision/b2Distance.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+
+1382856126 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\b2dynamictree.cpp
+	<Box2D/Collision/b2DynamicTree.h>
+	<memory.h>
+
+1382854526 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\b2timeofimpact.cpp
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/b2Distance.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+	<Box2D/Common/b2Timer.h>
+	<stdio.h>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\shapes\b2chainshape.cpp
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<new>
+	<memory.h>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\shapes\b2circleshape.cpp
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<new>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\shapes\b2edgeshape.cpp
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<new>
+
+1382937961 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\collision\shapes\b2polygonshape.cpp
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+	<new>
+
+1382855018 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\common\b2blockallocator.cpp
+	<Box2D/Common/b2BlockAllocator.h>
+	<limits.h>
+	<memory.h>
+	<stddef.h>
+
+1298260442 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\common\b2draw.cpp
+	<Box2D/Common/b2Draw.h>
+
+1315100244 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\common\b2math.cpp
+	<Box2D/Common/b2Math.h>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\common\b2settings.cpp
+	<Box2D/Common/b2Settings.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+
+1300987018 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\common\b2stackallocator.cpp
+	<Box2D/Common/b2StackAllocator.h>
+	<Box2D/Common/b2Math.h>
+
+1382854526 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\common\b2timer.cpp
+	<Box2D/Common/b2Timer.h>
+	<windows.h>
+	<sys/time.h>
+
+1382553788 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\b2body.cpp
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/Joints/b2Joint.h>
+
+1333520210 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\b2contactmanager.cpp
+	<Box2D/Dynamics/b2ContactManager.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+
+1316382321 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\b2fixture.cpp
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/b2BroadPhase.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Common/b2BlockAllocator.h>
+
+1382827006 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\b2island.cpp
+	<Box2D/Collision/b2Distance.h>
+	<Box2D/Dynamics/b2Island.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+	<Box2D/Dynamics/Joints/b2Joint.h>
+	<Box2D/Common/b2StackAllocator.h>
+	<Box2D/Common/b2Timer.h>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\b2world.cpp
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2Island.h>
+	<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/b2BroadPhase.h>
+	<Box2D/Collision/Shapes/b2CircleShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2PolygonShape.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<Box2D/Common/b2Draw.h>
+	<Box2D/Common/b2Timer.h>
+	<new>
+
+1300987018 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\b2worldcallbacks.cpp
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Dynamics/b2Fixture.h>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2chainandcirclecontact.cpp
+	<Box2D/Dynamics/Contacts/b2ChainAndCircleContact.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<new>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2chainandpolygoncontact.cpp
+	<Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Collision/Shapes/b2ChainShape.h>
+	<Box2D/Collision/Shapes/b2EdgeShape.h>
+	<new>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2circlecontact.cpp
+	<Box2D/Dynamics/Contacts/b2CircleContact.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<new>
+
+1333521302 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2contact.cpp
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/Contacts/b2CircleContact.h>
+	<Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h>
+	<Box2D/Dynamics/Contacts/b2PolygonContact.h>
+	<Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h>
+	<Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h>
+	<Box2D/Dynamics/Contacts/b2ChainAndCircleContact.h>
+	<Box2D/Dynamics/Contacts/b2ChainAndPolygonContact.h>
+	<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+	<Box2D/Collision/b2Collision.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<Box2D/Collision/Shapes/b2Shape.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2World.h>
+
+1382544566 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2contactsolver.cpp
+	<Box2D/Dynamics/Contacts/b2ContactSolver.h>
+	<Box2D/Dynamics/Contacts/b2Contact.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Common/b2StackAllocator.h>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2edgeandcirclecontact.cpp
+	<Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<new>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2edgeandpolygoncontact.cpp
+	<Box2D/Dynamics/Contacts/b2EdgeAndPolygonContact.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<new>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2polygonandcirclecontact.cpp
+	<Box2D/Dynamics/Contacts/b2PolygonAndCircleContact.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<new>
+
+1383025930 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\contacts\b2polygoncontact.cpp
+	<Box2D/Dynamics/Contacts/b2PolygonContact.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<Box2D/Collision/b2TimeOfImpact.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2Fixture.h>
+	<Box2D/Dynamics/b2WorldCallbacks.h>
+	<new>
+
+1315174713 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2distancejoint.cpp
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1315174713 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2frictionjoint.cpp
+	<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1340505954 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2gearjoint.cpp
+	<Box2D/Dynamics/Joints/b2GearJoint.h>
+	<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+	<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1382938826 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2joint.cpp
+	<Box2D/Dynamics/Joints/b2Joint.h>
+	<Box2D/Dynamics/Joints/b2DistanceJoint.h>
+	<Box2D/Dynamics/Joints/b2WheelJoint.h>
+	<Box2D/Dynamics/Joints/b2MouseJoint.h>
+	<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+	<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+	<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+	<Box2D/Dynamics/Joints/b2GearJoint.h>
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+	<Box2D/Dynamics/Joints/b2FrictionJoint.h>
+	<Box2D/Dynamics/Joints/b2RopeJoint.h>
+	<Box2D/Dynamics/Joints/b2MotorJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2World.h>
+	<Box2D/Common/b2BlockAllocator.h>
+	<new>
+
+1382487195 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2motorjoint.cpp
+	<Box2D/Dynamics/Joints/b2MotorJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1332051759 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2mousejoint.cpp
+	<Box2D/Dynamics/Joints/b2MouseJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1340506041 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2prismaticjoint.cpp
+	<Box2D/Dynamics/Joints/b2PrismaticJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1332051882 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2pulleyjoint.cpp
+	<Box2D/Dynamics/Joints/b2PulleyJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1340506100 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2revolutejoint.cpp
+	<Box2D/Dynamics/Joints/b2RevoluteJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1315174986 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2ropejoint.cpp
+	<Box2D/Dynamics/Joints/b2RopeJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1340506100 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2weldjoint.cpp
+	<Box2D/Dynamics/Joints/b2WeldJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1331963301 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\dynamics\joints\b2wheeljoint.cpp
+	<Box2D/Dynamics/Joints/b2WheelJoint.h>
+	<Box2D/Dynamics/b2Body.h>
+	<Box2D/Dynamics/b2TimeStep.h>
+
+1298362750 source:c:\users\terer10\desktop\coding\c++\deps\box2d_v2.3.0\box2d\box2d\rope\b2rope.cpp
+	<Box2D/Rope/b2Rope.h>
+	<Box2D/Common/b2Draw.h>
+
+1436923985 source:c:\users\terer10\desktop\coding\c++\projects\playground\main.cpp
+	"Playground.h"
+	<stdlib.h>
+
+1436854040 source:c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\sf2d.cpp
+	"SF2D.h"
+
+1436838251 c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\sf2d.h
+	<iostream>
+	<Box2D/Box2D.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	"../SOFIE/Math.h"
+
+1437429341 c:\users\terer10\desktop\coding\c++\projects\playground\playground.h
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<Box2D/Box2D.h>
+	"../SOFIE/Math.h"
+	"../SOFIE/Engine/Engine.h"
+	"SF2D/Body/DynamicBody.h"
+	"SF2D/Body/Wall.h"
+
+1437429341 source:c:\users\terer10\desktop\coding\c++\projects\playground\playground.cpp
+	"Playground.h"
+
+1436856818 source:c:\users\terer10\desktop\coding\c++\projects\physics\sofie\engine\engine.cpp
+	"Engine.h"
+	<iostream>
+
+1436853778 c:\users\terer10\desktop\coding\c++\projects\physics\sofie\engine\engine.h
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1435987119 source:c:\users\terer10\desktop\coding\c++\projects\physics\sofie\graphics\button.cpp
+	"Button.h"
+	<iostream>
+
+1435982078 c:\users\terer10\desktop\coding\c++\projects\physics\sofie\graphics\button.h
+	<SFML/Graphics.hpp>
+	"../Engine/Engine.h"
+	<iostream>
+
+1433480407 source:c:\users\terer10\desktop\coding\c++\projects\physics\sofie\graphics\buttonvector.cpp
+	"ButtonVector.h"
+
+1435903992 c:\users\terer10\desktop\coding\c++\projects\physics\sofie\graphics\buttonvector.h
+	<iostream>
+	"Button.h"
+
+1436805894 source:c:\users\terer10\desktop\coding\c++\projects\physics\sofie\math\conversion.cpp
+	"Conversion.h"
+
+1436805905 c:\users\terer10\desktop\coding\c++\projects\physics\sofie\math\conversion.h
+	<cmath>
+
+1435784736 source:c:\users\terer10\desktop\coding\c++\projects\physics\sofie\math\random.cpp
+	"Random.h"
+
+1436548484 c:\users\terer10\desktop\coding\c++\projects\physics\sofie\math\random.h
+	<random>
+	<time.h>
+	<iostream>
+
+1436764534 c:\users\terer10\desktop\coding\c++\projects\sofie\math.h
+	"Math/Conversion.h"
+	"Math/Random.h"
+
+1436764440 c:\users\terer10\desktop\coding\c++\projects\sofie\math\conversion.h
+	<cmath>
+
+1436548484 c:\users\terer10\desktop\coding\c++\projects\sofie\math\random.h
+	<random>
+	<time.h>
+	<iostream>
+
+1436764534 c:\users\terer10\desktop\coding\c++\projects\playground\sofie\math.h
+	"Math/Conversion.h"
+	"Math/Random.h"
+
+1436805894 c:\users\terer10\desktop\coding\c++\projects\playground\sofie\math\conversion.h
+	<cmath>
+
+1436775989 c:\users\terer10\desktop\coding\c++\projects\playground\sofie\math\random.h
+	<random>
+	<time.h>
+	<iostream>
+
+1436776298 source:c:\users\terer10\desktop\coding\c++\projects\playground\sofie\engine\engine.cpp
+	"Engine.h"
+	<iostream>
+
+1436775930 c:\users\terer10\desktop\coding\c++\projects\playground\sofie\engine\engine.h
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1436776314 source:c:\users\terer10\desktop\coding\c++\projects\playground\sofie\graphics\button.cpp
+	"Button.h"
+	<iostream>
+
+1436776012 c:\users\terer10\desktop\coding\c++\projects\playground\sofie\graphics\button.h
+	<SFML/Graphics.hpp>
+	"../Engine/Engine.h"
+	<iostream>
+
+1435987030 source:c:\users\terer10\desktop\coding\c++\projects\playground\sofie\independent\testwindow.cpp
+	"TestWindow.h"
+	"../Engine/Engine.h"
+	<iostream>
+	<fstream>
+	"../Math/Random.h"
+	"../Graphics/Button.h"
+
+1436776342 c:\users\terer10\desktop\coding\c++\projects\playground\sofie\independent\testwindow.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	"../Engine/Engine.h"
+	"../Graphics/Button.h"
+
+1436776359 source:c:\users\terer10\desktop\coding\c++\projects\playground\sofie\math\conversion.cpp
+	"Conversion.h"
+
+1435784736 source:c:\users\terer10\desktop\coding\c++\projects\playground\sofie\math\random.cpp
+	"Random.h"
+
+1436776779 source:c:\users\terer10\desktop\coding\c++\projects\playground\sofie\graphics\buttonvector.cpp
+	"ButtonVector.h"
+
+1436776327 c:\users\terer10\desktop\coding\c++\projects\playground\sofie\graphics\buttonvector.h
+	<iostream>
+	"Button.h"
+
+1436911909 c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\body.h
+	<iostream>
+	<Box2D/Box2D.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	"../SOFIE/Math.h"
+
+1436910362 source:c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\body.cpp
+	"Body.h"
+
+1436922071 source:c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\dynamicbody.cpp
+	"DynamicBody.h"
+
+1436921855 c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\dynamicbody.h
+	"Body.h"
+	<Box2D/Box2D.h>
+
+1437441051 source:c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\body\body.cpp
+	"Body.h"
+
+1437061458 c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\body\body.h
+	<iostream>
+	<Box2D/Box2D.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	"../SOFIE/Math.h"
+
+1437438874 source:c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\body\dynamicbody.cpp
+	"DynamicBody.h"
+
+1437438950 c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\body\dynamicbody.h
+	"Body.h"
+	<Box2D/Box2D.h>
+
+1436949709 source:c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\body\wall.cpp
+	"Wall.h"
+
+1436947041 c:\users\terer10\desktop\coding\c++\projects\playground\sf2d\body\wall.h
+	<Box2D/Box2D.h>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	"../../SOFIE/Math/Conversion.h"
+
